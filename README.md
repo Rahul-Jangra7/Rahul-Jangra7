@@ -38,18 +38,15 @@
 - 🌱 Learning ML, but my computer calls it "torture"
 - 🏆 Fun fact: My code works… until I demo it
 
-```cpp
 class Maharaj {
 public:
     string role = "Computer Science Student";
-    string[] skills = {"C++", "Python", "JavaScript", "Git", "Linux"};
+    string skills[5] = {"C++", "Python", "JavaScript", "Git", "Linux"};
     string motto = "Eat(); Sleep(); Code(); Repeat();";
 };
 
-
-## GitHub Stats Dashboard
-
-
+// GitHub Stats Dashboard
+/*
 ![Maharaj's GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 */
