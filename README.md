@@ -72,6 +72,3 @@ public:
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Jangra7&layout=compact&theme=radical)
-
-
-![Visitors](https://komarev.com/ghpvc/?username=Rahul-Jangra7&style=flat-square&color=blue)
