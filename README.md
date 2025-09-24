@@ -20,7 +20,7 @@
 ---
 
 ### 🚀 Featured Projects
-- [🔢 Calculator in JS](https://github.com/YOUR_USERNAME/calculator)
+- [🔒 Flask CAPTCHA Validation](https://github.com/Rahul-Jangra7/Flask-Captcha-Validation) – A Flask web app implementing Google reCAPTCHA v2 to protect forms and validate human users.
 - [📚 Library Management System](https://github.com/YOUR_USERNAME/library-management)
 - [🤖 Handwritten Digit Recognizer](https://github.com/YOUR_USERNAME/digit-recognizer)
 
@@ -56,8 +56,6 @@ public:
 };
 ```
 ---
-
-## GitHub Stats Dashboard
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Jangra7&layout=compact&theme=radical)
 
