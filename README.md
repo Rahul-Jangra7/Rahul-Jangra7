@@ -15,7 +15,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Maharaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Maharaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-Jangra7&show_icons=true&theme=radical)
 
 ---
 
