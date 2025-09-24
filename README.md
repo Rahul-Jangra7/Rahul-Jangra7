@@ -31,12 +31,18 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
 
 ⭐️ From [Maharaj](https://github.com/YOUR_USERNAME)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🚀 About Me
+- 🔭 Currently debugging life (and my C++ heapify function 😅)
+- 🌱 Learning ML, but my computer calls it "torture"
+- 🏆 Fun fact: My code works… until I demo it
+
+```cpp
+class Maharaj {
+public:
+    string role = "Computer Science Student";
+    string[] skills = {"C++", "Python", "JavaScript", "Git", "Linux"};
+    string motto = "Eat(); Sleep(); Code(); Repeat();";
+};
+
