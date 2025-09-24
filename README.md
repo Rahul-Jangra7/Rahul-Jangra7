@@ -39,7 +39,7 @@
 | Project | Description | Tech | 
 |---------|-------------|------|
 | [🏏 Cricket Match Prediction](https://github.com/Rahul-Jangra7/Cricket-Match-Prediction) | Predict the outcome of cricket matches using machine learning models | Python, ML, Pandas, Scikit-learn |
-| [🔒 Flask CAPTCHA Validation](https://github.com/Rahul-Jangra7/Flask-Captcha-Validation) | A Flask web app implementing Google reCAPTCHA to validate human users | Python, Flask, HTML, reCAPTCHA |
+| [🔒 Flask CAPTCHA Validation](https://github.com/Rahul-Jangra7/Flask-Captcha-Validation) | A Flask web app implementing Google reCAPTCHA to validate human users | Python, Flask, HTML, MySQL, reCAPTCHA |
 | [🛠️ Code Debugging Assistant](https://github.com/Rahul-Jangra7/Code-Debugging-Assistant) | A Python tool to help debug code efficiently | Python, NLP |
 | [📚 Library Management System](https://github.com/Rahul-Jangra7/library-management) | Manage books, users, and borrowing system in Python | Python, SQLite, OOP |
 
