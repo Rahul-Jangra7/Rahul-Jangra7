@@ -59,7 +59,7 @@ public:
 
 ## GitHub Stats Dashboard
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Jangra7&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rahul-Jangra7&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Jangra7&layout=compact&theme=radical)
 
 
