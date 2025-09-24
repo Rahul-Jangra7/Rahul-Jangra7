@@ -44,9 +44,8 @@ public:
     string role = "Computer Science Student";
     string[] skills = {"C++", "Python", "JavaScript", "Git", "Linux"};
     string motto = "Eat(); Sleep(); Code(); Repeat();";
-};
+};";
 
----
 
 ```markdown
 ![Maharaj's GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true)
