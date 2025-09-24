@@ -46,3 +46,14 @@ public:
     string motto = "Eat(); Sleep(); Code(); Repeat();";
 };
 
+---
+
+
+---
+
+### 5. **GitHub “Stats Dashboard”**
+Add widgets that show your coding vibe:
+```markdown
+![Maharaj's GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
