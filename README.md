@@ -26,6 +26,15 @@
 
 ---
 
+## 🛠️ Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| [📚 Library Management](https://github.com/YOUR_USERNAME/library-management) | A Python system to manage books | Python, SQLite |
+| [🔢 Calculator](https://github.com/YOUR_USERNAME/calculator) | Web calculator with JS | HTML, CSS, JS |
+| [🤖 Digit Recognizer](https://github.com/YOUR_USERNAME/digit-recognizer) | ML project for handwritten digits | Python, ML |
+
+---
+
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
@@ -46,6 +55,9 @@ public:
     string motto = "Eat(); Sleep(); Code(); Repeat();";
 };
 ```
+---
+
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue)
 
 // GitHub Stats Dashboard
 /*
