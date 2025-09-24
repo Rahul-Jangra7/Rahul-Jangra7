@@ -38,12 +38,14 @@
 - 🌱 Learning ML, but my computer calls it "torture"
 - 🏆 Fun fact: My code works… until I demo it
 
+```cpp
 class Maharaj {
 public:
     string role = "Computer Science Student";
     string skills[5] = {"C++", "Python", "JavaScript", "Git", "Linux"};
     string motto = "Eat(); Sleep(); Code(); Repeat();";
 };
+```
 
 // GitHub Stats Dashboard
 /*
