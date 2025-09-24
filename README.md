@@ -57,12 +57,12 @@ public:
 ```
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=Rahul-Jangra7&style=flat-square&color=blue)
 
-// GitHub Stats Dashboard
+
 /*
 ![Rahul-Jangra7's GitHub Streak](https://streak-stats.demolab.com?user=Rahul-Jangra7&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Jangra&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Jangra7&layout=compact&theme=tokyonight)
 */
 
 
