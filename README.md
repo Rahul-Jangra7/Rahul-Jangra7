@@ -39,7 +39,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
 
-⭐️ From [Maharaj](https://github.com/YOUR_USERNAME)
+⭐️ From [Rahul Jangra](https://github.com/Rahul-Jangra7)
 
 
 ## 🚀 About Me
@@ -57,9 +57,10 @@ public:
 ```
 ---
 
-/*
+## GitHub Stats Dashboard
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Jangra7&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Jangra7&layout=compact&theme=tokyonight)
-*/
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Jangra7&layout=compact&theme=radical)
+
 
 ![Visitors](https://komarev.com/ghpvc/?username=Rahul-Jangra7&style=flat-square&color=blue)
